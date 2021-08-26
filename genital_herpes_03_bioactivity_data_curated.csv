@@ -234,6 +234,3 @@ CHEMBL322676,Cc1csc2nc(Cc3cccc(NC(=O)c4cccc(NO)c4)c3)oc(=O)c12,45.0,intermediate
 CHEMBL104662,Cc1csc2nc(Cc3ccc(C(=O)c4ccccc4)cc3)oc(=O)c12,800.0,inactive
 CHEMBL106921,Cc1csc2nc(Cc3cccc(NC(=O)c4ccccc4)c3)oc(=O)c12,1500.0,active
 CHEMBL107963,Cc1csc2nc(Cc3cccc(NC(=O)c4ccc(NN)cc4)c3)oc(=O)c12,2400.0,inactive
-CHEMBL106641,CC(=O)c1cccc(NO)c1,11000.0,
-CHEMBL108677,Cc1csc2nc(Cc3cccc(NC(=O)c4ccc(NO)cc4)c3)oc(=O)c12,61.0,
-CHEMBL542448,Cl.NO,33000.0,
